@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lstWords" type="id" />
+    <item name="action_delete" type="id" />
+    <item name="action_insert" type="id" />
+    <item name="action_search" type="id" />
+    <item name="action_update" type="id" />
+    <item name="textId" type="id" />
+    <item name="textViewWord" type="id" />
+    <item name="txtMeaning" type="id" />
+    <item name="txtWord" type="id" />
+    <item name="txtSample" type="id" />
+    <item name="textViewMeaning" type="id" />
+    <item name="textViewSample" type="id" />
+    <item name="txtSearchWord" type="id" />
+    <item name="SearchText" type="id" />
+    <item name="deleteWord_menu" type="id" />
+</resources>
